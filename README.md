@@ -92,13 +92,6 @@ dotnet restore
 
 # Run the API
 Set both WidgetStore.API and WidgetStore.Functions as startup projects
-```
-
-```powershell
-# Run the Functions (in another terminal)
-cd WidgetStore.Functions
-func start
-```
 
 ## 🌩️ Cloud Deployment
 
