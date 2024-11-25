@@ -85,7 +85,7 @@ graph TB
 
 ```powershell
 # Clone repository
-git clone https://github.com/ttides/widgetstore.git
+git clone https://github.com/TommyTides/Widget-Store.git
 
 # Restore dependencies
 dotnet restore
