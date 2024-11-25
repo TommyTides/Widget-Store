@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WidgetStore.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7000",
+      "launchBrowser": false
+    }
+  }
+}

@@ -1,0 +1,66 @@
+
+/.vs
+/WidgetStore.API/bin
+/WidgetStore.API/obj
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Azure Functions local settings
+local.settings.json
+
+# Azure development storage
+__blobstorage__
+__queuestorage__
+__tablestorage__
+
+# User-specific files
+*.rsuser
+*.dtbcache.v2
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Custom files
+appsettings.Development.json
+appsettings.Local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+/WidgetStore.API/Properties
