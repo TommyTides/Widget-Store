@@ -5,7 +5,7 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/services/cosmos-db/)
 
-A cloud-native e-commerce platform built with .NET 8 and Azure services, designed for high scalability and performance.
+### A cloud-native e-commerce platform built with .NET 8 and Azure services, designed for high scalability and performance.
 
 ## 🏗️ Architecture
 
